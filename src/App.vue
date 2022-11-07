@@ -56,7 +56,7 @@ export default {
   font-style: normal;
 }
 .daytime{
-  background-color: #f3f4fa;
+  background-color: #f3f4fb;
 }
 .night{
   background-color: #100D22;
